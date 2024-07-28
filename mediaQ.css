@@ -1,0 +1,438 @@
+@media screen and (max-width: 1400px) {
+    #portfolio-nav{
+        display: none;
+    }
+
+    #portfolio-nav-2{
+        display: flex;
+    }
+
+    .navLogo-links a{
+        color: black;
+        font-size: larger;
+    }
+
+    .profile-content-1, .profile-content-2{
+        color: black;
+    }
+    
+}
+
+@media screen and (max-width: 1100px) {
+    #portfolio-nav{
+        display: none;
+    }
+
+    #portfolio-nav-2{
+        display: flex;
+    }
+
+    .navLogo-links a{
+        color: black;
+        font-size: larger;
+    }
+
+    .aboutme-text-cont{
+        width: 50%;
+        font-size: large;
+    }
+
+    .pic-cont, .mePic{
+        margin-left: auto;
+        margin-right: 0px;
+        height: 500px;
+    }
+
+
+    #skills{
+        height: auto;
+    }
+
+    #about{
+        height: auto;
+    }
+
+    .aboutmecontainers-cont{
+        display: block;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    .aboutme-text-cont{
+        width: 50%;
+        font-size: large;
+    }
+
+    .aboutme-text-cont{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+        font-size: large;
+    }
+
+    .aboutpic-cont, .aboutpic{
+        margin: auto;
+        height: 400px;
+        width: 400px;
+    }
+
+    .aboutpic-cont{
+        margin-bottom: 20px;
+    }
+    
+    #profile{
+        margin: auto;
+    }
+    .profile-text{
+        height: auto;
+        margin-left:auto;
+        margin-right: 0;
+    }
+
+    .profile-buttons{
+        display: block;
+        margin-top: 20px;
+        justify-content: center;
+    }
+
+    .profile-button-1{
+        margin-left: 20px;
+    }
+
+    .profile-button-2{
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .socialslink{
+        width:auto;
+    }
+
+
+}
+
+@media screen and (max-width: 700px) {
+    #portfolio-nav{
+        display: none;
+    }
+
+    #portfolio-nav-2{
+        display: flex;
+    }
+
+    .navLogo-links a{
+        color: black;
+        font-size: larger;
+    }
+
+    .aboutme-text-cont{
+        width: 50%;
+        font-size: large;
+    }
+
+    .pic-cont, .mePic{
+        margin-left: 55px;
+        margin-right: 0px;
+        margin-top: 25%;
+        height: 300px;
+        width: 300px;
+    }
+
+    .profile-content-1 {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .profile-content-2{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .profile-content-3{
+        display: none;
+    }
+
+    .profile-button-1, .profile-button-2{
+        font-size: 15px;
+        width:fit-content;
+    }
+
+    #about{
+        margin:auto;
+        height: auto;
+        width: 400px;
+    }
+
+    .aboutmecontainers-cont{
+        display: block;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    .aboutme-1{
+        font-size: 20px;
+    }
+
+    .aboutme-2{
+        font-size: 40px;
+    }
+
+    .aboutpic-cont, .aboutpic{
+        margin: auto;
+        height: 200px;
+        width: 200px;
+    }
+
+    .aboutpic-cont{
+        margin-bottom: 20px;
+    }
+
+    .aboutme-text-cont{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+        font-size: large;
+    }
+
+    #skills{
+        height: auto;
+    }
+
+    .intro-1{
+        font-size: 20px;
+    }
+
+    .intro-2{
+        font-size: 40px;
+    }
+
+    #profile{
+        max-width:min-content;
+    }
+    .profile-text{
+        height: auto;
+        margin-left:0px;
+        margin-right: 100px;
+    }
+
+    .profile-buttons{
+        display: block;
+        margin-top: 20px;
+        justify-content: center;
+    }
+
+    .profile-button-1{
+        margin-left: 20px;
+    }
+
+    .profile-button-2{
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .skillscontainers-cont{
+        display:block;
+        margin: auto;
+    }
+
+    .frontendskills-cont{
+        margin-bottom: 30px;
+    }
+
+    .backendskills-cont{
+        margin-top: 30px;
+    }
+
+    .socialslink{
+        width:auto;
+    }
+
+    .contact-1{
+        font-size: 20px;
+    }
+
+    .contact-2{
+        font-size: 40px;
+    }
+
+    .socialslink{
+        display: block;
+        font-size: 20px;
+        width: fit-content;
+        height: fit-content;
+        padding-left:20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+    }
+
+    #contact{
+        height: auto;
+        padding-bottom: 50px;
+    
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    #portfolio-nav{
+        display: none;
+    }
+
+    #portfolio-nav-2{
+        display: flex;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .navLogo-links a{
+        color: black;
+        font-size: larger;
+    }
+
+    .logo{
+        font-size: 100px;
+    }
+
+    .navLogo{
+        width: 50px;
+        height: 50px;
+    }
+
+    #profile{
+        display: block;
+        height: 1500px;
+    }
+
+    .pic-cont, .mePic{
+        align-content: center;
+        margin-left: 10%;
+        height: 700px;
+    }
+
+    .pic-cont{
+        margin-top: 40px;
+    }
+
+    .profile-content-1 {
+        text-align: center;
+        font-size: 80px;
+    }
+
+    .profile-content-2{
+        text-align: center;
+        font-size: 100px;
+    }
+
+    .profile-content-3{
+        display: none;
+    }
+
+    .profile-button-1, .profile-button-2{
+        font-size: 50px;
+        width:fit-content;
+    }
+
+    .profile-buttons{
+        margin-top: 40px;
+    }
+
+    .profile-text{
+        display: block;
+        justify-content: center;
+    }
+
+    #about{
+        max-height: fit-content;
+    }
+
+    .aboutmecontainers-cont{
+        display: flex;
+        max-height: fit-content;
+    }
+
+    .aboutme-1{
+        font-size: 30px;
+    }
+
+    .aboutme-2{
+        font-size: 50px;
+    }
+
+    .aboutpic-cont, .aboutpic{
+        margin-left: 24%;
+    }
+
+    .aboutpic-cont{
+        margin-bottom: 20px;
+    }
+
+    .aboutme-text-cont{
+        width: 80%;
+        margin: auto;
+        font-size: large;
+    }
+
+    #skills{
+        height: auto;
+    }
+
+    .intro-1{
+        font-size: 40px;
+    }
+
+    .intro-2{
+        font-size: 100px;
+    }
+
+    .skillscontainers-cont{
+        display:block;
+    }
+
+    .frontendskills-cont{
+        margin-bottom: 30px;
+    }
+
+    .backendskills-cont{
+        margin-top: 80px;
+    }
+
+    .frontendtitle, .backendtitle{
+        font-size: 80px;
+    }
+
+    .frontendarticles-cont, .backendarticles-cont{
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+
+    article{
+        font-size: 50px;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .contact-1{
+        font-size: 40px;
+    }
+
+    .contact-2{
+        font-size: 100px;
+    }
+
+    #contact{
+        height: auto;
+        padding-bottom: 100px;
+    
+    }
+
+    .socialslink{
+        display: block;
+        font-size: 20px;
+        width: fit-content;
+        height: fit-content;
+        padding-left:20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+    }
+}

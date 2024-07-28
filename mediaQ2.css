@@ -1,0 +1,129 @@
+@media (max-width: 1200px) {
+    .navLogo-content {
+        font-size: 1.25rem;
+        gap: 2rem;
+    }
+
+    .profile-content-1, .profile-content-2 {
+        font-size: 2rem;
+    }
+
+    .profile-content-2 {
+        font-size: 3rem;
+    }
+
+    .profile-content-3 {
+        font-size: 1rem;
+    }
+
+    .mePic {
+        height: 400px;
+    }
+
+    .aboutme-2 {
+        font-size: 4rem;
+    }
+
+    .skillscontainers-cont {
+        margin-left: 40px;
+        margin-right: 40px;
+        gap: 2rem;
+    }
+
+    .frontendtitle, .backendtitle {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    #portfolio-nav {
+        display: none;
+    }
+
+    #portfolio-nav-2 {
+        display: flex;
+    }
+
+    .pic-cont {
+        height: 200px;
+        width: 200px;
+    }
+
+    .profile-text {
+        margin-left: 20px;
+    }
+
+    .profile-content-1, .profile-content-2 {
+        font-size: 1.5rem;
+    }
+
+    .profile-content-2 {
+        font-size: 2rem;
+    }
+
+    .profile-content-3 {
+        font-size: 0.875rem;
+    }
+
+    .mePic {
+        height: 200px;
+    }
+
+    .aboutme-2 {
+        font-size: 2.5rem;
+    }
+
+    .skillscontainers-cont {
+        flex-direction: column;
+        margin-left: 20px;
+        margin-right: 20px;
+        gap: 1rem;
+    }
+
+    .frontendtitle, .backendtitle {
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .navLogo-content {
+        font-size: 1rem;
+        gap: 1rem;
+    }
+
+    .profile-content-1, .profile-content-2 {
+        font-size: 1rem;
+    }
+
+    .profile-content-2 {
+        font-size: 1.5rem;
+    }
+
+    .profile-content-3 {
+        font-size: 0.75rem;
+    }
+
+    .mePic {
+        height: 150px;
+    }
+
+    .aboutme-2 {
+        font-size: 1.75rem;
+    }
+
+    .skillscontainers-cont {
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 0.5rem;
+    }
+
+    .frontendtitle, .backendtitle {
+        font-size: 1rem;
+    }
+
+    .socialslink {
+        width: 80%;
+        height: 80px;
+        font-size: 1rem;
+    }
+}
